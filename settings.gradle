@@ -1,0 +1,2 @@
+include ':app', ':stickyheaders'
+rootProject.name='sticky-layoutmaner'
